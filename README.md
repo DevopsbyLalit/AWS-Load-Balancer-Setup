@@ -342,6 +342,21 @@ curl http://my-web-alb-1234567890.ap-south-1.elb.amazonaws.com
 User → Load Balancer → Target Group → EC2 Instance 1
                                       → EC2 Instance 2
 
+---
+
+## 👨‍💻 Author
+
+**Lalit Patil**  
+Cloud & DevOps Enthusiast  
+
+- GitHub: https://github.com/DevopsbyLalit  
+- LinkedIn: https://www.linkedin.com/in/lalit-patil25  
+- Email: lalitpatil251092@gmail.com  
+
+---
+
+### ❤️ Support
+If you like this project, feel free to ⭐ star the repository.
 
 
 
